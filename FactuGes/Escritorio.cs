@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace FactuGes
 {
-    public partial class InicioSesion : Form
+    public partial class Escritorio : Form
     {
-        public InicioSesion()
+        public Escritorio()
         {
             InitializeComponent();
-        }
-
-        private void btnInicioSesion_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
